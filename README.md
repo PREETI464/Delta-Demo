@@ -6,3 +6,6 @@ Shardha khapra
 
 # Student
 Delta Student
+
+# College name
+Dcrust Murthal
